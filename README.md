@@ -2,6 +2,6 @@
 ## Project 14 [Live Link](https://jagtapnimisha2.github.io/ineuron-assignment--14/)
 
 
-#### Screenshot
+#### Screenshot of web page
 
-![Desktop](./screenshots/project-14.png)
+![image](./screenshots/project-14.png)
